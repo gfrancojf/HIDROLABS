@@ -37,7 +37,7 @@ DJANGO_APPS = [
     'django.contrib.staticfiles',
     ]
 LOCAL_APPS = [
-
+    'laboratorio',
     ]
 THIRD_PARTY_APPS = [
     'bootstrap5',
